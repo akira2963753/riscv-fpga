@@ -19,15 +19,9 @@ This project originates from a Computer Organization course and [UC Berkeley CS 
 
 | Directory | Description |
 |---|---|
-| `RISC-V CPU CORE/` | Core RTL modules (ALU, register file, control logic, etc.) |
-| `Five-Stage-Pipelined-CPU/` | Top-level pipeline integration |
+| `Five-Stage-Pipelined-CPU/` | Core RTL modules (ALU, register file, control logic, etc.) |
 | `CACHE/` | L1 instruction / data cache with AXI4-Lite interface |
-
-## Languages
-
-- Verilog — RTL design (65.9%)
-- Python — simulation / verification scripts (30.6%)
-- SystemVerilog — testbenches (3.5%)
+| `RISC-V-Processor` | Top-level pipeline integration |
 
 ## Documentation
 
