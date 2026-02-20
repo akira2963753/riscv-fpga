@@ -124,7 +124,3 @@ python Verify_Script.py
 - Expand CSR support for full Machine-mode privilege
 
 ---
-
-## License
-
-This project is for educational purposes.
